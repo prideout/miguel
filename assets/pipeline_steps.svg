@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="190" viewBox="0 0 1180 190" role="img">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="32" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#1f2933">Conceptual pipeline</text>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5d6975"/></marker></defs>
+<rect x="32.0" y="64" width="200.8" height="72" rx="8" fill="#d9ecff" stroke="#6b7785" stroke-width="1.4"/>
+<text x="132.4" y="90.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">Signed</text>
+<text x="132.4" y="112.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">Gauss code</text>
+<line x1="238.8" y1="100.0" x2="252.8" y2="100.0" stroke="#5d6975" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="260.8" y="64" width="200.8" height="72" rx="8" fill="#f7e4a6" stroke="#6b7785" stroke-width="1.4"/>
+<text x="361.2" y="90.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">Orientation</text>
+<text x="361.2" y="112.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">recovery</text>
+<line x1="467.6" y1="100.0" x2="481.6" y2="100.0" stroke="#5d6975" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="489.6" y="64" width="200.8" height="72" rx="8" fill="#d8efd2" stroke="#6b7785" stroke-width="1.4"/>
+<text x="590.0" y="90.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">Combinatorial</text>
+<text x="590.0" y="112.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">embedding</text>
+<line x1="696.4" y1="100.0" x2="710.4" y2="100.0" stroke="#5d6975" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="718.4" y="64" width="200.8" height="72" rx="8" fill="#eadcf8" stroke="#6b7785" stroke-width="1.4"/>
+<text x="818.8" y="90.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">Half-edge</text>
+<text x="818.8" y="112.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">structure</text>
+<line x1="925.2" y1="100.0" x2="939.2" y2="100.0" stroke="#5d6975" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="947.2" y="64" width="200.8" height="72" rx="8" fill="#f7d6cd" stroke="#6b7785" stroke-width="1.4"/>
+<text x="1047.6" y="90.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">Circle</text>
+<text x="1047.6" y="112.0" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="650" fill="#1f2933">packing</text>
+</svg>
